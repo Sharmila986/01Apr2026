@@ -13,6 +13,7 @@ public class Test1 {
 		WebDriver driver = new ChromeDriver();
 		driver.get("http://www.facebook.com");
 		System.out.println("Hello world");
+		System.out.println("Hi");
 	}
 
 }

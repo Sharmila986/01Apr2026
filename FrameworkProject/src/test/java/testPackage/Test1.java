@@ -14,6 +14,7 @@ public class Test1 {
 		driver.get("http://www.facebook.com");
 		System.out.println("Hello world");
 		System.out.println("Hi");
+		System.out.println("Hello New Branch");
 	}
 
 }
